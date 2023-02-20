@@ -7,7 +7,7 @@
 }
 /*Aqui eu criei um estilo e chamo este estilo no arquivo html atraves da tag ''link*/
 body{
-  background-color: rgb(218, 218, 211);
+  background-color: rgb(187, 187, 185);
   padding: 10px;
   font-family: Arial, sans-serif;
 }
