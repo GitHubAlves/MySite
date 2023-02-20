@@ -48,7 +48,7 @@ ul#album-fotos li#album01:hover {
 }
 
 ul#album-fotos li#album02{ /*buscando o link do album-fotos e dentro dele tudo que for li espesificando  a lista foto 01*/
-    background: url('../imagens/galeria-02.jpg')no-repeat;
+    background: url('../imagens//altium-designer.png')no-repeat;
     background-position: 50% 50%; /*posiciona o centro da foto*/
     background-position: 50% 50%; /*posiciona o centro da foto*/
     background-size: 400px 400px;
