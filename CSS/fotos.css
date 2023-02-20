@@ -37,7 +37,7 @@ ul#album-fotos li:hover span{ /*span é elemento de linha, hover é apra quando 
 }
 
 ul#album-fotos li#album01{ /*buscando o link do album-fotos e dentro dele tudo que for li espesificando  a lista foto 01*/
-    background: url('../_imagens/galeria-01.jpg')no-repeat;
+    background: url('../imagens/galeria-01.jpg')no-repeat;
     background-position: 50% 50%; /*posiciona o centro da foto*/
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -48,7 +48,7 @@ ul#album-fotos li#album01:hover {
 }
 
 ul#album-fotos li#album02{ /*buscando o link do album-fotos e dentro dele tudo que for li espesificando  a lista foto 01*/
-    background: url('../_imagens/galeria-02.jpg')no-repeat;
+    background: url('../imagens/galeria-02.jpg')no-repeat;
     background-position: 50% 50%; /*posiciona o centro da foto*/
     background-position: 50% 50%; /*posiciona o centro da foto*/
     background-size: 400px 400px;
@@ -62,7 +62,7 @@ ul#album-fotos li#album02:hover {
 }
 
 ul#album-fotos li#album03{ /*buscando o link do album-fotos e dentro dele tudo que for li espesificando  a lista foto 01*/
-    background: url('../_imagens/galeria-03.jpg')no-repeat;
+    background: url('../imagens/galeria-03.jpg')no-repeat;
     background-position: 50% 50%; /*posiciona o centro da foto*/
     background-position: 50% 50%; /*posiciona o centro da foto*/
     background-size: 400px 400px;
@@ -76,7 +76,7 @@ ul#album-fotos li#album03:hover {
 }
 
 ul#album-fotos li#album04{ /*buscando o link do album-fotos e dentro dele tudo que for li espesificando  a lista foto 01*/
-    background: url('../_imagens/galeria-04.jpg')no-repeat;
+    background: url('../imagens/galeria-04.jpg')no-repeat;
     background-position: 50% 50%; /*posiciona o centro da foto*/
     background-position: 50% 50%; /*posiciona o centro da foto*/
     background-size: 400px 400px;
@@ -90,7 +90,7 @@ ul#album-fotos li#album04:hover {
 }
 
 ul#album-fotos li#album05{ /*buscando o link do album-fotos e dentro dele tudo que for li espesificando  a lista foto 01*/
-    background: url('../_imagens/galeria-05.jpg')no-repeat;
+    background: url('../imagens/galeria-05.jpg')no-repeat;
     background-position: 50% 50%; /*posiciona o centro da foto*/
     background-position: 50% 50%; /*posiciona o centro da foto*/
     background-size: 400px 400px;
@@ -104,7 +104,7 @@ ul#album-fotos li#album05:hover {
 }
 
 ul#album-fotos li#album06{ /*buscando o link do album-fotos e dentro dele tudo que for li espesificando  a lista foto 01*/
-    background: url('../_imagens/galeria-06.jpg')no-repeat;
+    background: url('../imagens/galeria-06.jpg')no-repeat;
     background-position: 50% 50%; /*posiciona o centro da foto*/
     background-position: 50% 50%; /*posiciona o centro da foto*/
     background-size: 400px 400px;
