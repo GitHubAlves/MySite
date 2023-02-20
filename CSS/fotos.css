@@ -37,7 +37,7 @@ ul#album-fotos li:hover span{ /*span é elemento de linha, hover é apra quando 
 }
 
 ul#album-fotos li#album01{ /*buscando o link do album-fotos e dentro dele tudo que for li espesificando  a lista foto 01*/
-    background: url('../imagens/galeria-05.jpg')no-repeat;
+    background: url('../imagens/Alondra.jpeg')no-repeat;
     background-position: 50% 50%; /*posiciona o centro da foto*/
     background-size: 400px 400px;
     background-color: #ffffff;
